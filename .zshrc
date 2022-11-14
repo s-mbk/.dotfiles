@@ -144,3 +144,10 @@ source $ZSH/oh-my-zsh.sh
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+
+
+
+
+## SOURCE THE CUSTOMIZED myfunctions.sh FILE to avoid always sourcing open reopeining of terminal
+source myfunctions.sh
